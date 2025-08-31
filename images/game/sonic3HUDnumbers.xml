@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sonic3HUDnumbers.png">
+<SubTexture name="zero0000" x="0" y="0" width="38" height="54" frameX="-4" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="one0000" x="38" y="0" width="18" height="54" frameX="-16" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="two0000" x="56" y="0" width="34" height="54" frameX="-8" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="colon0000" x="38" y="108" width="18" height="34" frameX="-16" frameY="-16" frameWidth="32" frameHeight="48" />
+<SubTexture name="three0000" x="90" y="0" width="34" height="54" frameX="-8" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="four0000" x="0" y="54" width="38" height="54" frameX="-4" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="five0000" x="38" y="54" width="38" height="54" frameX="-4" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="six0000" x="76" y="54" width="38" height="54" frameX="-4" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="seven0000" x="124" y="0" width="38" height="54" frameX="-4" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="eight0000" x="124" y="54" width="34" height="54" frameX="-8" frameY="-4" frameWidth="32" frameHeight="48" />
+<SubTexture name="nine0000" x="0" y="108" width="38" height="54" frameX="-4" frameY="-4" frameWidth="32" frameHeight="48" />
+</TextureAtlas>

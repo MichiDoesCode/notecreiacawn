@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majin bopper foreground 1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="majin FG20000" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20001" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20002" x="424" y="0" width="443" height="469" frameX="0" frameY="-23" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20003" x="424" y="0" width="443" height="469" frameX="0" frameY="-23" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20004" x="0" y="492" width="439" height="472" frameX="-2" frameY="-20" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20005" x="0" y="492" width="439" height="472" frameX="-2" frameY="-20" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20006" x="439" y="492" width="429" height="487" frameX="-7" frameY="-5" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20007" x="439" y="492" width="429" height="487" frameX="-7" frameY="-5" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20008" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20009" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20010" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20011" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20012" x="424" y="0" width="443" height="469" frameX="0" frameY="-23" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20013" x="424" y="0" width="443" height="469" frameX="0" frameY="-23" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20014" x="0" y="492" width="439" height="472" frameX="-2" frameY="-20" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20015" x="0" y="492" width="439" height="472" frameX="-2" frameY="-20" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20016" x="439" y="492" width="429" height="487" frameX="-7" frameY="-5" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20017" x="439" y="492" width="429" height="487" frameX="-7" frameY="-5" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20018" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20019" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+	<SubTexture name="majin FG20020" x="0" y="0" width="424" height="492" frameX="-9" frameY="0" frameWidth="443" frameHeight="492"/>
+</TextureAtlas>

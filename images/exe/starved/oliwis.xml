@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="oliwis.png">
+<SubTexture name="oliwis0000" x="0" y="0" width="63" height="64" frameX="-18" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="oliwis0001" x="63" y="64" width="64" height="57" frameX="-17" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="oliwis0002" x="0" y="64" width="63" height="60" frameX="-18" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="oliwis0003" x="63" y="0" width="64" height="62" frameX="-17" frameY="-13" frameWidth="127" frameHeight="89" />
+</TextureAtlas>

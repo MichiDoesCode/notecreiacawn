@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="elanillodemipitote.png">
+<SubTexture name="idle0000" x="0" y="0" width="190" height="189" frameX="0" frameY="0" frameWidth="180" frameHeight="179" />
+<SubTexture name="idle0001" x="190" y="0" width="120" height="189" frameX="-31" frameY="0" frameWidth="180" frameHeight="179" />
+<SubTexture name="idle0002" x="310" y="0" width="41" height="189" frameX="-71" frameY="0" frameWidth="180" frameHeight="179" />
+</TextureAtlas>

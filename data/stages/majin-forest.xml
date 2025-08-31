@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="FunInfiniteStage/" name="majin-forest" zoom="0.75">
+<use-extension script="dropshadow-effect"/>
+	<girlfriend/>
+	
+	<sprite x="-563" scroll="0.5" sprite="sonicFUNsky" y="-305" type="none" name="sky"/>
+	<sprite x="1400" scroll="0.5" sprite="Majins2" y="-311" type="beat" name="majins3"/>
+	<sprite x="-450" scroll="0.75" sprite="Majins1" y="-382" type="beat" scale="1.25" name="Majins1"/>
+	<sprite x="-100" scroll="0.5" sprite="Majins2" y="-311" type="beat" name="majins2"/>
+	<sprite x="-570" sprite="Bush 1" y="343" type="none" scale="1.2" name="bush1"/>
+	<sprite x="-650" sprite="floor BG" y="443" type="none" scalex="1.1" name="floor"/>
+	<dad x="15" y="45" ds_applyShader="true" ds_color="#0026FF" ds_antialiasAmt="10" ds_angle="90" ds_brightness="-20" ds_hue="0"/>
+	<boyfriend x="970" y="10" ds_applyShader="true" ds_color="#0026FF" ds_antialiasAmt="10" ds_angle="90" ds_brightness="-20" ds_hue="0"/>
+</stage>

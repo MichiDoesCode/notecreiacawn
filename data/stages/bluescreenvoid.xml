@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="bluescreen/" name="bluescreenvoid" zoom="0.3">
+	<sprite x="13.8781211578981" sprite="blue2" y="-213.612726639728" type="none" scale="9" name="bl"/>
+	<sprite x="630" sprite="bluescreen" y="-607" type="none" scale="2" name="bluescreen"/>
+	<dad x="-42" camyoffset="-200"/>
+	<girlfriend x="100"/>
+	<boyfriend x="1500" camyoffset="-290"/>
+</stage>

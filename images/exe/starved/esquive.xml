@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="esquive.png">
+<SubTexture name="fuareloco0000" x="0" y="0" width="30" height="30" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0001" x="30" y="0" width="29" height="30" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0002" x="0" y="0" width="30" height="30" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0003" x="0" y="30" width="30" height="29" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0004" x="0" y="0" width="30" height="30" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0005" x="59" y="0" width="29" height="30" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0006" x="0" y="0" width="30" height="30" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0007" x="30" y="30" width="30" height="29" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0008" x="0" y="0" width="30" height="30" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+<SubTexture name="fuareloco0009" x="0" y="59" width="31" height="25" frameX="-30" frameY="-40" frameWidth="104" frameHeight="99" />
+</TextureAtlas>

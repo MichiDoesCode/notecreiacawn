@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ataria.png">
+<SubTexture name="ataria idle0000" x="90" y="0" width="40" height="54" frameX="-7" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria idle0001" x="180" y="163" width="42" height="50" frameX="-6" frameY="-7" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria idle0002" x="0" y="163" width="44" height="53" frameX="-5" frameY="-4" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria idle0003" x="0" y="55" width="46" height="54" frameX="-4" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria left0000" x="44" y="163" width="48" height="53" frameX="-1" frameY="-4" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria left0001" x="46" y="55" width="46" height="54" frameX="-4" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria left0002" x="130" y="0" width="42" height="54" frameX="-6" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria left0003" x="130" y="54" width="41" height="54" frameX="-7" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria down0000" x="0" y="109" width="46" height="54" frameX="-4" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria down0001" x="92" y="163" width="44" height="53" frameX="-5" frameY="-4" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria down0002" x="136" y="163" width="44" height="51" frameX="-5" frameY="-6" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria down0003" x="46" y="109" width="41" height="54" frameX="-7" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria up0000" x="87" y="109" width="43" height="54" frameX="-6" frameY="-1" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria up0001" x="0" y="0" width="45" height="55" frameX="-5" frameY="-1" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria up0002" x="45" y="0" width="45" height="55" frameX="-5" frameY="-2" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria up0003" x="172" y="0" width="43" height="54" frameX="-6" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria right0000" x="172" y="54" width="39" height="54" frameX="-12" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria right0001" x="172" y="108" width="42" height="54" frameX="-8" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria right0002" x="130" y="109" width="41" height="54" frameX="-8" frameY="-3" frameWidth="52" frameHeight="58" />
+<SubTexture name="ataria right0003" x="215" y="0" width="39" height="54" frameX="-9" frameY="-3" frameWidth="52" frameHeight="58" />
+</TextureAtlas>

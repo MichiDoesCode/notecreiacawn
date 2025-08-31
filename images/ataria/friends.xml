@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="friends.png">
+<SubTexture name="friends danceleft0000" x="0" y="0" width="73" height="48" frameX="-7" frameY="0" frameWidth="80" frameHeight="48" />
+<SubTexture name="friends danceleft0001" x="73" y="0" width="75" height="47" frameX="-5" frameY="-1" frameWidth="80" frameHeight="48" />
+<SubTexture name="friends danceleft0002" x="0" y="95" width="77" height="46" frameX="-3" frameY="-2" frameWidth="80" frameHeight="48" />
+<SubTexture name="friends danceleft0003" x="148" y="91" width="79" height="44" frameX="-1" frameY="-4" frameWidth="80" frameHeight="48" />
+<SubTexture name="friends danceright0000" x="0" y="141" width="80" height="45" frameX="0" frameY="-3" frameWidth="80" frameHeight="48" />
+<SubTexture name="friends danceright0001" x="148" y="0" width="79" height="46" frameX="-1" frameY="-2" frameWidth="80" frameHeight="48" />
+<SubTexture name="friends danceright0002" x="148" y="46" width="78" height="45" frameX="-2" frameY="-3" frameWidth="80" frameHeight="48" />
+<SubTexture name="friends danceright0003" x="0" y="48" width="76" height="47" frameX="-4" frameY="-1" frameWidth="80" frameHeight="48" />
+</TextureAtlas>

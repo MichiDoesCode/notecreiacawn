@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"icon": "elbebe",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "battle-of-ages",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 181
+}

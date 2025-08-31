@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="340" sprite="nothim" flipX="true" icon="nothim" color="#FF0000">
+	<anim name="idle" anim="BF idle dance" loop="true"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN" x="-18" y="-48" loop="true"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT" x="44" y="-5" loop="true"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT" x="-35" y="-7" loop="true"/>
+	<anim name="singUP" anim="BF NOTE UP" x="7" y="32" loop="true"/>
+</character>

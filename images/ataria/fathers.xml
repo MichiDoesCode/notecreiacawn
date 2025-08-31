@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fathers.png">
+<SubTexture name="fathers danceleft0000" x="0" y="0" width="57" height="46" frameX="-2" frameY="0" frameWidth="59" frameHeight="46" />
+<SubTexture name="fathers danceleft0001" x="57" y="0" width="56" height="45" frameX="-3" frameY="-1" frameWidth="59" frameHeight="46" />
+<SubTexture name="fathers danceleft0002" x="113" y="43" width="56" height="42" frameX="-3" frameY="-4" frameWidth="59" frameHeight="46" />
+<SubTexture name="fathers danceleft0003" x="113" y="0" width="56" height="43" frameX="-3" frameY="-3" frameWidth="59" frameHeight="46" />
+<SubTexture name="fathers danceright0000" x="0" y="46" width="56" height="45" frameX="-3" frameY="-1" frameWidth="59" frameHeight="46" />
+<SubTexture name="fathers danceright0001" x="56" y="46" width="56" height="44" frameX="-3" frameY="-2" frameWidth="59" frameHeight="46" />
+<SubTexture name="fathers danceright0002" x="0" y="91" width="58" height="42" frameX="-1" frameY="-4" frameWidth="59" frameHeight="46" />
+<SubTexture name="fathers danceright0003" x="58" y="91" width="59" height="42" frameX="0" frameY="-4" frameWidth="59" frameHeight="46" />
+</TextureAtlas>

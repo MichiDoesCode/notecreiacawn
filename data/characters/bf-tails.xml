@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="Starved/Starved_Tails" icon="tailsstarved" color="#ff7300" x="-150" y="150" flipX="true" camx="-250" camy="-140">
+	<anim name="idle" anim="idle" x="-5" y="0" loop="true"/>
+	<anim name="singRIGHTmiss" anim="singRIGHTmiss" x="-34" y="-43"/>
+	<anim name="singLEFTmiss" anim="singLEFTmiss" x="-63" y="-21"/>
+	<anim name="singDOWNmiss" anim="singDOWNmiss" x="-15" y="-49"/>
+	<anim name="singUPmiss" anim="singUPmiss" x="-23" y="-2"/>
+	<anim name="singLEFT" anim="singLEFT" x="-64" y="-1" indices="2..10"/>
+	<anim name="singDOWN" anim="singDOWN" x="-10" y="-31" indices="2..10"/>
+	<anim name="singRIGHT" anim="singRIGHT" x="-8" y="-17" indices="2..10"/>
+	<anim name="singUP" anim="singUP" x="-7" y="36" indices="2..10"/>
+</character>

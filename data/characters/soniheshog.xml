@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="soni" camx="100" camy="100" icon="soniicons" color="#2B00FF">
+	<anim name="idle" anim="idole"/>
+	<anim name="singDOWN" anim="down" x="-16" y="-122"/>
+	<anim name="singRIGHT" anim="right" x="-179" y="-114"/>
+	<anim name="singLEFT" anim="left" x="60" y="-69"/>
+	<anim name="singUP" anim="up" x="53" y="64"/>
+</character>

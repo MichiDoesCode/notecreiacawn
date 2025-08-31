@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="cube" color="#FF0000">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="33" y="5"/>
+	<anim name="singRIGHT" anim="right" x="-60" y="10"/>
+	<anim name="singLEFT" anim="left" x="131" y="21"/>
+	<anim name="singUP" anim="up" y="145"/>
+</character>

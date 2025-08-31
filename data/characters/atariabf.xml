@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="ataria_bf" scale="3" antialiasing="false" camy="200" isPlayer="true" icon="face" color="#0078EB" holdTime="6.1">
+	<anim name="idle" anim="ataria bf idle" x="-20" y="-29" fps="10"/>
+	<anim name="singDOWN" anim="ataria bf down" x="-20" y="-29" fps="10"/>
+	<anim name="singUP" anim="ataria bf up" x="-20" y="-29" fps="10"/>
+	<anim name="singRIGHT" anim="ataria bf left" x="-20" y="-29" fps="10"/>
+	<anim name="singLEFT" anim="ataria bf right" x="-20" y="-29" fps="10"/>
+</character>

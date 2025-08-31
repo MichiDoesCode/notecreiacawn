@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-alphabet-font>
+<alphabetFont fps="12" advance="30" lineGap="70" colorMode="none">
+	<spritesheet>game/sonic3HUDnumbers</spritesheet>
+
+	<anim char="0">zero</anim>
+	<anim char="1">one</anim>
+	<anim char="2">two</anim>
+	<anim char="3">three</anim>
+	<anim char="4">four</anim>
+	<anim char="5">five</anim>
+	<anim char="6">six</anim>
+	<anim char="7">seven</anim>
+	<anim char="8">eight</anim>
+	<anim char="9">nine</anim>
+	<anim char=":">colon</anim>
+</alphabetFont>

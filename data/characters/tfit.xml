@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="tfit-new" flipX="true" isPlayer="true" icon="elbebe" color="#5D67FF">
+	<anim name="idle" anim="idle" x="-2" fps="12"/>
+	<anim name="singDOWN" anim="down" fps="12"/>
+	<anim name="singRIGHT" anim="right" x="3" y="4" fps="12"/>
+	<anim name="singLEFT" anim="left" x="8" y="2" fps="12"/>
+	<anim name="singUP" anim="up" x="-3" y="-14" fps="12"/>
+	<anim name="miss up" anim="miss up" x="-3" y="-13"/>
+	<anim name="alt right" anim="alt right" x="-14" y="2" fps="12"/>
+	<anim name="miss left" anim="miss left" x="8" y="2"/>
+	<anim name="miss down" anim="miss down"/>
+	<anim name="miss right" anim="miss right" x="6" y="5"/>
+</character>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="ataria" icon="face" color="#eb3c50" antialiasing="false" camx="-70" camy="100" holdTime="6.1" scale="3">
+	<anim name="idle" anim="ataria idle" x="-20" y="-29" fps="10"/>
+	<anim name="singDOWN" anim="ataria down" x="-20" y="-29" fps="10"/>
+	<anim name="singLEFT" anim="ataria left" x="-19.666666666666668" y="-29" fps="10"/>
+	<anim name="singUP" anim="ataria up" x="-20" y="-29" fps="10"/>
+	<anim name="singRIGHT" anim="ataria right" x="-20.333333333333332" y="-29" fps="10"/>
+</character>

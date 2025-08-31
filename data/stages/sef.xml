@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="Stage Path/" name="sef" zoom="0.7">
+	<girlfriend/>
+	<dad x="1200" y="-70"/>
+	<boyfriend camxoffset="900" camyoffset="30" x="500" y="-51"/>
+</stage>

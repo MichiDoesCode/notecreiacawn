@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character y="200" sprite="Majin/SonicFunAssets" camx="-100" camy="-50" icon="majin" color="#000FFF">
+	<anim name="singLEFT" anim="SonicFunAssets left" x="281" y="70"/>
+	<anim name="singUP" anim="SonicFunAssets up" x="37" y="198"/>
+	<anim name="singDOWN" anim="SonicFunAssets down" x="51" y="45"/>
+	<anim name="singRIGHT" anim="SonicFunAssets right" x="-96" y="139"/>
+	<anim name="idle" anim="SonicFunAssets idle" x="-42" y="183" loop="true"/>
+</character>

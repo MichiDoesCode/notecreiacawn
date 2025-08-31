@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="220" startCamPosY="90" folder="ataria/" zoom="3" name="grasshills">
+	<use-extension script="pixel"/>
+	<girlfriend/>
+	<sprite type="none" antialiasing="false" sprite="bg" name="bg"/>
+	<sprite antialiasing="false" x="76.7474133080717" sprite="fathers" y="35.0627744824032" name="father" type="beat"/>
+	<sprite antialiasing="false" x="50" sprite="friends" y="65" name="frens" type="beat"/>
+	  <anim name="danceleft" anim="danceleft" loop="false" fps="10"/>
+	  <anim name="dancerright" anim="danceright" loop="false" fps="10"/>  
+	<boyfriend scale="0.3" x="220" y="31.85"/>
+	<dad scale="0.3" x="120" y="27"/>
+</stage>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Majins1.png">
+<SubTexture name="Majins10000" x="0" y="0" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10001" x="0" y="0" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10002" x="1588" y="0" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10003" x="1588" y="0" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10004" x="0" y="830" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10005" x="0" y="830" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10006" x="0" y="830" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10007" x="0" y="830" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10008" x="0" y="0" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+<SubTexture name="Majins10009" x="0" y="0" width="1588" height="830" frameX="0" frameY="0" frameWidth="1588" frameHeight="830" />
+</TextureAtlas>

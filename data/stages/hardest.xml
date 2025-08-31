@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage startCamPosX="650" startCamPosY="500" folder="hardestgay/" zoom="0.65" name="hardest">
+	<girlfriend/>
+	<sprite antialiasing="false" x="332" sprite="otherbg" y="250" type="none" scale="3" name="otherbgf"/>
+	<dad scale="0.2" x="192" y="365"/>
+	<boyfriend scale="0.2" x="580" y="290"/>
+</stage>
