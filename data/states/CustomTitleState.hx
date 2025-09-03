@@ -41,6 +41,8 @@ var start_velocity:Float = 50;
 var start_text_backdrop:FlxBackdrop;
 
 var logo:FlxSprite = new FlxSprite().loadGraphic(Paths.image("menus/title/logo"));
+
+var splash_texts:Array<String> = CoolUtil.coolTextFile(Paths.txt("splash"));
 function init_top() {
 
     add(logo);
@@ -51,11 +53,20 @@ function init_top() {
     logo.y = 125;
     sprite_backdrop(logo, FlxPoint.get(12, 18));
 
+    var splash_text = new FlxText(0, 0, logo.width * 0.5, FlxG.random.getObject(splash_texts));
+    splash_text.antialiasing = Options.antialiasing;
+    splash_text.setFormat(Paths.font("vcr.ttf"), 25, FlxColor.YELLOW, "center");
+    splash_text.angle = -8;
+    splash_text.updateHitbox();
+    splash_text.setPosition(logo.x + (logo.width - splash_text.width) + 45, logo.y + (logo.height - splash_text.height) + 5);
+    add(splash_text);
+    sprite_backdrop(splash_text, FlxPoint.get(3, 3));
+
     var white_spaces = 3;
     var text = "PRESS START TO BEGIN";
     for (i in 0...(white_spaces*2)+1) text += (i == white_spaces) ? "-" : " ";
 
-    var start_text = new FlxText(0, 0, 0, text, 38);
+    var start_text = new FlxText(0, 0, 0, text);
     start_text.antialiasing = Options.antialiasing;
     start_text.setFormat(Paths.font("vcr.ttf"), 38, FlxColor.WHITE, "center", FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
     start_text.borderSize = 2;

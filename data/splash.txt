@@ -1,0 +1,5 @@
+# Try to not make the splash text long.
+Go play Geometry Dash!
+peak...
+bop beep boop
+minceraft
