@@ -1,3 +1,8 @@
+//a
+
+// LJ | This file does nothing as of right now, because you copied it from assets/data/discord.hx | so if you edit the file then remove the `return;` you see here. otherwise you could break something lmao.
+return;
+
 import funkin.backend.utils.DiscordUtil;
 
 function onGameOver() {
