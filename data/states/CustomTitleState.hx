@@ -9,12 +9,28 @@ import flixel.util.FlxAxes;
 
 import openfl.display.BitmapData;
 
+var bar_data = [
+    {percent: 0.1},
+    {percent: 0.1}
+];
 function create() {
     CoolUtil.playMenuSong(true);
 
     init_bg();
     init_top();
+    
+    var bar = new FlxSprite().makeSolid(FlxG.width, FlxG.height*0.5, FlxColor.BLACK);
+    bar.screenCenter();
+    bar.scrollFactor.set();
+    bar.onDraw = (spr:FlxSprite) -> {
+        for (i=>d in bar_data) {
+            spr.y = (i == 1) ? FlxMath.lerp(FlxG.height, FlxG.height - spr.height, d.percent) : FlxMath.lerp(-spr.height, 0, d.percent);
+            spr.draw();
+        }
+    };
+    add(bar);
 }
+
 
 //region Init BG
 
@@ -73,10 +89,7 @@ function init_top() {
     start_text.updateHitbox();
 
     var start_bg = new FlxSprite().makeSolid(FlxG.width, start_text.height, 0x64000000);
-    start_bg.onDraw = (spr) -> {
-        spr.y = start_text_backdrop.y;
-        spr.draw();
-    }
+    start_bg.onDraw = (spr) -> { spr.y = start_text_backdrop.y; spr.draw(); }
     add(start_bg);
 
     add(start_text_backdrop = new FlxBackdrop(start_text.pixels, FlxAxes.X));
@@ -108,6 +121,12 @@ function beatHit(curBeat:Int) {
         logo.scale.x *= 1.05;
         logo.scale.y *= 1.05;
         FlxTween.tween(logo.scale, {x: original_scale, y: original_scale}, Conductor.crochet * 0.001, {ease: FlxEase.circOut});
+
+        for (data in bar_data) {
+            var percent = data.percent;
+            data.percent = 0.135;
+            FlxTween.tween(data, {percent: percent}, Conductor.crochet * 0.001, {ease: FlxEase.circOut});
+        }
     }
 
 }
