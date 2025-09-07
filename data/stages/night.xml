@@ -1,8 +1,6 @@
 <!DOCTYPE codename-engine-stage>
 <stage folder="sonistage/" name="night" zoom="0.3">
 	<sprite x="-761.324827416872" sprite="sky2" y="-46.5688922691679" type="none" scale="4" name="noche"/>
-	<sprite x="-571.088311754569" sprite="stars" y="-22.6862915010153" type="none" scale="3" name="estrellitas"/>
-	<sprite x="-776.000000573358" sprite="island2" y="40.0000005451851" type="none" scale="2" name="island"/>
 	<girlfriend/>
 	<dad x="-439" y="167"/>
 	<boyfriend x="1116" y="-7"/>
