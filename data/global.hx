@@ -9,9 +9,14 @@ import openfl.geom.ColorTransform;
 //region AspectUtil
 
 class AspectUtil {
+    static var _instance:AspectUtil;
+    public function new() {
+        if (_instance != null) return null;
+        AspectUtil._instance = this;
+    }
 
-    public static var width(default, set):Float = 1280;
-    public static var height(default, set):Float = 720;
+    public var width(default, set):Float = 1280;
+    public var height(default, set):Float = 720;
 
     function set_width(value:Float):Float {
         FlxG.initialWidth = value;
@@ -27,11 +32,12 @@ class AspectUtil {
         return value;
     }
 
-    public static function reset() {
-        AspectUtil.width = 1280;
-        AspectUtil.height = 720;
+    public function reset() {
+        width = 1280;
+        height = 720;
     }
 }
+static var AspectUtil = new AspectUtil();
 
 //endregion
 
