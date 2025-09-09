@@ -1,12 +1,8 @@
-//
 import openfl.Lib;
 import openfl.system.Capabilities;
 import lime.graphics.Image;
 import funkin.backend.utils.WindowUtils;
-
 import openfl.geom.ColorTransform;
-
-//region AspectUtil
 
 class AspectUtil {
     static var _instance:AspectUtil;
@@ -39,10 +35,6 @@ class AspectUtil {
 }
 static var AspectUtil = new AspectUtil();
 
-//endregion
-
-//region Custom Utility
-
 static function sprite_backdrop(spr:FlxSprite, ?distance:FlxPoint, ?color:FlxColor = FlxColor.BLACK) {
     color ??= FlxColor.BLACK;
     distance ??= FlxPoint.get(10, 10);
@@ -68,20 +60,13 @@ static function sprite_backdrop(spr:FlxSprite, ?distance:FlxPoint, ?color:FlxCol
 }
 
 static function color_to_vec3(color:FlxColor):Array<Float> {
-    // var a:Float = ((color >> 24) & 0xFF) / 255;
     var r:Float = ((color >> 16) & 0xFF) / 255;
     var g:Float = ((color >> 8)  & 0xFF) / 255;
     var b:Float = (color         & 0xFF) / 255;
-
     return [r, g, b];
 }
 
-//endregion
-
 function destroy() {
-    // title
     window.title = "Friday Night Funkin' - Codename Engine"; // LJ | Don't know why you need this here but alright
-
-    // resize
     AspectUtil.reset();
 }
